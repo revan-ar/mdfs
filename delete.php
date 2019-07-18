@@ -34,7 +34,7 @@ $banner = "\e[36;1m
                 #     ##      
                               
                                                                                  
-[#] Mass Delete Facebook Status & Photos [#]    
+[#] Mass Delete Facebook Status [#]    
                                    
 Coded by : Revan AR                  
 Team     : IndoSec                   
