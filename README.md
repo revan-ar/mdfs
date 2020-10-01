@@ -1,6 +1,4 @@
-# mdsf
-Mass Delete Status Facebook
-
+# Mass Delete Status Facebook
 Coded by Revan AR - { IndoSec }
 
 # Usage ?
